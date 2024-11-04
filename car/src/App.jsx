@@ -1,10 +1,11 @@
+import Layout from "./component/Layout/Layout"
 
 
 function App() {
 
   return (
     <>
-      <h1>haa</h1>
+      <Layout/>
     </>
   )
 }
